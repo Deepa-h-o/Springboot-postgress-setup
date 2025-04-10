@@ -1,2 +1,0 @@
-# Springboot-postgress-setup
-Testing
